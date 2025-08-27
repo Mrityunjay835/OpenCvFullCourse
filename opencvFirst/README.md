@@ -1,0 +1,38 @@
+# OpenCV Using Python
+
+This project demonstrates basic usage of OpenCV with Python.
+
+## Features
+
+- Image and video processing
+- Real-time computer vision tasks
+- Example scripts and tutorials
+
+## Requirements
+
+- Python 3.x
+- OpenCV (`opencv-python`)
+- NumPy
+
+## Installation
+
+```bash
+pip install opencv-python numpy
+```
+
+## Usage
+
+Clone the repository and run example scripts:
+
+```bash
+python example.py
+```
+
+## Project Files
+
+- `example.py` — Demonstrates basic OpenCV operations such as reading, displaying, and processing images or videos.
+- `README.md` — Provides an overview of the project, setup instructions, and file descriptions.
+
+## License
+
+This project is licensed under the MIT License.
