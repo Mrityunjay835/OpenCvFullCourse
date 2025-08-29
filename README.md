@@ -32,6 +32,7 @@ python example.py
 
 - `example.py` — Demonstrates basic OpenCV operations such as reading, displaying, and processing images or videos.
 - `README.md` — Provides an overview of the project, setup instructions, and file descriptions.
+- It contain list of python file along with their topic name.
 
 ## License
 
