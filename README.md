@@ -19,7 +19,6 @@ This project demonstrates basic usage of OpenCV with Python.It contain several c
 ```bash
 pip install opencv-python numpy mediapipe
 ```
-
 ## Usage
 
 Clone the repository and run example scripts:
