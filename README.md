@@ -26,7 +26,6 @@ Clone the repository and run example scripts:
 ```bash
 python example.py
 ```
-
 ## Project Files
 
 - `example.py` — Demonstrates basic OpenCV operations such as reading, displaying, and processing images or videos.
