@@ -7,6 +7,7 @@ This project demonstrates basic usage of OpenCV with Python.It contain several c
 - Image and video processing
 - Real-time computer vision tasks
 - Example scripts and tutorials
+  
 ## Requirements
 
 - Python 3.x
