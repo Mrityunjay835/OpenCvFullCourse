@@ -9,7 +9,7 @@ This project demonstrates basic usage of OpenCV with Python.It contain several c
   
 ## Requirements
 
-- Python 3.x
+- Python 3
 - OpenCV (`opencv-python`)
 - NumPy
 
