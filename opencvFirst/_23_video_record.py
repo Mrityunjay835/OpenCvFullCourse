@@ -15,7 +15,6 @@ out = cv2.VideoWriter('./vid/output.mp4',
 
 
 recording = False  # Flag for recording state
-
 print("Controls: 's' = start, 'p' = pause, 'q' = save & exit")
 
 while True:
