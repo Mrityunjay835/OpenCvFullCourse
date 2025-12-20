@@ -2,7 +2,6 @@ import cv2
 
 # Open webcam
 cap = cv2.VideoCapture(0)
-
 # Get resolution
 frame_width = int(cap.get(3))
 frame_height = int(cap.get(4))
