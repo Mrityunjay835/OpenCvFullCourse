@@ -11,4 +11,6 @@ key = cv2.waitKey(0)
 
 if(key == ord('s')): #if 's' is pressed, save the image
     cv2.imwrite('./img/myimg_copy.png', img)
+
+
 cv2.destroyAllWindows()
