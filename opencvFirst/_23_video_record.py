@@ -37,7 +37,6 @@ while True:
     elif key == ord('q'):
         print("Recording saved as output.mp4")
         break
-
     # Write frame if recording
     if recording:
         out.write(frame)
