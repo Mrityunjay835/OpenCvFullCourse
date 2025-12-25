@@ -11,6 +11,7 @@ This project demonstrates basic usage of OpenCV with Python.It contain several c
 - Python 3
 - OpenCV (`opencv-python`)
 - NumPy
+- panda
 
 ## Installation
 
