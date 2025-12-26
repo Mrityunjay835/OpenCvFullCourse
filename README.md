@@ -7,7 +7,6 @@ This project demonstrates basic usage of OpenCV with Python.It contain several c
 - Example scripts and tutorials
   
 ## Requirements
-
 - Python 3
 - OpenCV (`opencv-python`)
 - NumPy
