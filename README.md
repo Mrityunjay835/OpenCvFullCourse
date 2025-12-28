@@ -1,7 +1,6 @@
 # OpenCV Using Python
 This project demonstrates basic usage of OpenCV with Python.It contain several chapter go one by one for best prictice.
 
-
 ## Features
 - Image and video processing
 - Real-time computer vision tasks
