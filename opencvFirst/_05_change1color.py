@@ -15,7 +15,6 @@ b, g, r = cv2.split(img)
 img[:, :, 0] = 0 # set blue channel to zero
 img[:, :, 1] = 0 # set green channel to zero
 
-
 # Everything is red now
 cv2.imshow("Image", img)
 cv2.imwrite("./img/color_line_red.png", img)
