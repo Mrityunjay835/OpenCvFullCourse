@@ -9,7 +9,6 @@ print(f"Image shape: {img.shape}")
 print(f"Image size: {img.size}")
 pixal_val = img[100, 100]
 print(f"Pixel value at (10000,100): {pixal_val}")
-
 b, g, r = cv2.split(img)
 # print('red channel, green channel, blue channel', r, g, b)
 
