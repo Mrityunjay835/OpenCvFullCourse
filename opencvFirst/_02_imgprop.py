@@ -15,6 +15,7 @@ for i in range(img.shape[0]//2):
     for j in range(img.shape[1]//2):
         img[i,j] = [0,0,0]
 
+# close all the windows
 cv2.imshow('Image', img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
