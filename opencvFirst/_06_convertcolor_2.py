@@ -12,5 +12,3 @@ cv2.imshow('HSV', img2)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-
-# python _06_convertcolor_2.py
