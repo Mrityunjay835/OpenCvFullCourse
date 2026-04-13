@@ -1,5 +1,5 @@
 # perform bitwise AND operation
-# 🖼️ Bitwise 
+# Bitwise 
 # AND → keep common white parts
 # OR → combine white parts
 # XOR → keep only different parts
@@ -7,7 +7,7 @@
 
 
 
-# note👉: it only works with grayscale images.
+# note: it only works with grayscale images.
 # this program only shows the AND, OR, and XOR operations. Not saves the images.
 
 #Must check _09_bitwise_resize.py to resize the images to the same size before running this code.
