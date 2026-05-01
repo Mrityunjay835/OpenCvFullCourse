@@ -14,12 +14,6 @@ img = cv2.imread("./img/color_line.png")
 # Step 2: Convert to Grayscale
 gray_img = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
-# Step 3.A: Apply Binary Threshold
-# Anything above 127 becomes 255 (white), below becomes 0 (black)
-
-#THIS COMMENTES LINE FOR INVERTED BINARY IMAGE
-# _, binary = cv2.threshold(gray_img, 127, 255, cv2.THRESH_BINARY)
-
 
 # Step 3.B: Apply Otsu’s Thresholding
 # The threshold value is automatically chosen
