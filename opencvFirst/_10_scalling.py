@@ -32,4 +32,4 @@ plt.show()
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 
-# python _09_bitwise_scale.py (input arguments not fouund)
+# python _09_bitwise_scale.py
